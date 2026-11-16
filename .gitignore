@@ -2,3 +2,7 @@ _cache_parquet/
 *.parquet
 *.csv
 .ipynb_checkpoints/
+venv/
+.venv/
+__pycache__/
+*.pyc
